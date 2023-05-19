@@ -78,6 +78,16 @@ body{
 footer{
     background-color: black;
     color: orange;
-    padding: 5px;
+    padding: 7px;
     font-size: medium;
+    text-align: center;
+}
+
+footer p{
+    margin: 0px;
+}
+
+.developer_link{
+    font-weight: bold;
+    color: inherit;
 }
